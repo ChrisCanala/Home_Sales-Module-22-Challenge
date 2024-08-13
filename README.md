@@ -33,5 +33,3 @@ Run the last query that calculates the average price of a home per "view" rating
 Uncache the home_sales temporary table.
 
 Verify that the home_sales temporary table is uncached using PySpark.
-
-Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
